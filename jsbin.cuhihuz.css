@@ -1,0 +1,18 @@
+* { 
+  margin: 0;
+  padding: 0;
+}
+html, body {
+  height: 100%;
+  font-family: 'Pacifico', cursive;
+  transition: background ease-in-out 1s;
+}
+
+#clock {
+  text-align: center;
+  position: relative;
+  top: 50%;
+  margin-top: -5rem;
+  font-size: 4rem;
+  color: #ffffff;
+}
